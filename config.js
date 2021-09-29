@@ -30,13 +30,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        turn_on: "准备好了么？那么开始吧",
+        play: "先来点音乐。。。",
+        bannar_coming: "！！生日快乐！！",
+        balloons_flying: "好像少点什么？？",
+        cake_fadein: "蛋糕？？？",
+        light_candle: "来，许个愿吧。。。",
+        wish_message: "吹蜡烛？还有什么？",
         story: "A MESSAGE FOR YOU",
     }
 };
